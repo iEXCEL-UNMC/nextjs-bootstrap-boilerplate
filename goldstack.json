@@ -2,7 +2,7 @@
   "$schema": "./schemas/package.schema.json",
   "templateVersion": "0.1.0",
   "template": "yarn-pnp-monorepo",
-  "name": "project-nextjsbootstrap1",
+  "name": "nextjsbootstrap.netlify.app",
   "configuration": {},
   "deployments": []
 }
